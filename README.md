@@ -67,4 +67,5 @@ Incorporating sentiment indicators like the Fear & Greed Index into risk-managem
 ### 🏷️ Author  
 **Tushar Singh**  
 Candidate — *Junior Data Scientist (Trader Behavior Insights)*  
-Email: tusharsingh9726@gmail.com  
+Email: tusharsingh8734@gmail.com  
+
